@@ -36,8 +36,6 @@ I created this application to increase my understanding of express.js so that I 
   
   This product is licensed under the mit license
   
-## Badge
-  None
   
 ## Features
   express.js
@@ -51,8 +49,11 @@ I created this application to increase my understanding of express.js so that I 
   npm test
   
 ## Questions
-  Profile Link: https://github.com/noahslusher
+  Profile Link: https://github.com/noahslusher!
+
   For any questions or concerns, please contact slushern42@gmail.com with any questions.
 
 
+
+[Screen Shot 2022-04-09 at 3 17 14 PM](https://user-images.githubusercontent.com/97577116/162594008-2c5545f7-f0aa-4283-8191-41b4035dbb87.png)
 
