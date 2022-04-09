@@ -7,8 +7,6 @@
 I created this application to increase my understanding of express.js so that I can use javaScript to create a server that powers a front-end application. This was my first exposure to back-end programming and it was not an easy task. I hope you enjoy taking notes on my notetaking application.
 
 ## Live URL
-  https://noahslusher.github.io/note-taker/
-
    ### Heroku
   https://sheltered-shelf-73743.herokuapp.com/notes
 
@@ -36,8 +34,6 @@ I created this application to increase my understanding of express.js so that I 
   
   This product is licensed under the mit license
   
-## Badge
-  None
   
 ## Features
   express.js
@@ -51,8 +47,11 @@ I created this application to increase my understanding of express.js so that I 
   npm test
   
 ## Questions
-  Profile Link: https://github.com/noahslusher
+  Profile Link: https://github.com/noahslusher!
+
   For any questions or concerns, please contact slushern42@gmail.com with any questions.
 
 
+
+![Screen Shot 2022-04-09 at 3 17 14 PM](https://user-images.githubusercontent.com/97577116/162594033-8fc7a1bb-66b6-45e0-90e5-077c2da02393.png)
 
