@@ -7,8 +7,6 @@
 I created this application to increase my understanding of express.js so that I can use javaScript to create a server that powers a front-end application. This was my first exposure to back-end programming and it was not an easy task. I hope you enjoy taking notes on my notetaking application.
 
 ## Live URL
-  https://noahslusher.github.io/note-taker/
-
    ### Heroku
   https://sheltered-shelf-73743.herokuapp.com/notes
 
